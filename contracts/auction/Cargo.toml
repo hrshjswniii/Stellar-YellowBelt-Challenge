@@ -1,0 +1,18 @@
+[package]
+name = "soroban-auction-contract"
+version = "0.1.0"
+authors = ["Stellar RiseIn Challenge <developer@stellar.org>"]
+edition = "2021"
+description = "Soroban Real-time Auction Smart Contract with event stream publishing and custom error handling"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[features]
+testutils = ["soroban-sdk/testutils"]
+
+[dependencies]
+soroban-sdk = "20.0.0"
+
+[dev-dependencies]
+soroban-sdk = { version = "20.0.0", features = ["testutils"] }
