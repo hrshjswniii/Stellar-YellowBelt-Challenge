@@ -26,7 +26,7 @@ A multi-wallet decentralized real-time auction platform built on **Stellar Testn
 > The placeholders below can be updated with your specific deployment credentials and screenshots prior to final submission.
 
 ### 1. Live Demo Link
-- **Deployed App URL**: `[YOUR_LIVE_DEMO_URL_HERE]` *(e.g., https://stellar-auction.vercel.app)*
+- **Deployed App URL**: https://real-time-auction-dapp.vercel.app?_vercel_share=iPZ5IAa3Fn7AWgGwirV8PulafUpyCefW
 
 ### 2. Deployed Contract Address
 - **Soroban Contract ID**: `[YOUR_DEPLOYED_CONTRACT_ADDRESS_HERE]`
@@ -37,7 +37,8 @@ A multi-wallet decentralized real-time auction platform built on **Stellar Testn
 - **Verifiable Explorer Link**: [View Transaction on Stellar Explorer](https://stellar.expert/explorer/testnet/tx/[YOUR_TRANSACTION_HASH_HERE])
 
 ### 4. Screenshot: Multi-Wallet Options Available
-![Multi-Wallet Options Screenshot]([YOUR_WALLET_OPTIONS_SCREENSHOT_PATH_OR_URL_HERE])
+<img width="1126" height="814" alt="image" src="https://github.com/user-attachments/assets/ce5b9025-365e-4cfe-9e76-d1339c554083" />
+
 
 ---
 
